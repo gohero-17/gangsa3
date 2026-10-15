@@ -1,0 +1,8 @@
+.git
+.env*
+*.pdf
+*.hwp
+*.hwpx
+*.md
+test-results
+playwright-report

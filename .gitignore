@@ -1,0 +1,9 @@
+.vercel/
+.env
+.env.*
+node_modules/
+*.pdf
+*.hwp
+*.hwpx
+test-results/
+playwright-report/
